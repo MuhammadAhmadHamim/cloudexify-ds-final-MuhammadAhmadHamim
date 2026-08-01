@@ -32,6 +32,10 @@ This is the **Month 1 Final Project** of the **CloudExify Data Science Summer In
 ```
 cloudexify-ds-final-MuhammadAhmadHamim/
 ├── charts/     # Output visuals from both notebooks
+|   ├── elbow_method.png
+|   ├── segment_3d_plot.png
+|   └── segment_distribution.png
+|
 ├── sales_analysis.ipynb    # Project 1 — Sales Data Analysis
 ├── customer_segmentation.ipynb     # Project 2 — Customer Segmentation (this project)
 ├── sample_data.csv     # Dataset for Project 1
