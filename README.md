@@ -30,14 +30,14 @@ This is the **Month 1 Final Project** of the **CloudExify Data Science Summer In
 ## Repository Structure
 
 ```
-cloudexify-ds-final-yourname/
-├── charts/                                                    # Output visuals from both notebooks
-├── sales_analysis.ipynb                                       # Project 1 — Sales Data Analysis
-├── customer_segmentation.ipynb                                # Project 2 — Customer Segmentation (this project)
-├── sample_data.csv                                            # Dataset for Project 1
-├── customer_transactions.csv                                  # Dataset for Project 2
-├── sales_analysis_evaluation_report.pdf                       # Project 1 summary report
-├── customer_segmentation_evaluation_report.pdf                # Project 2 summary report
+cloudexify-ds-final-MuhammadAhmadHamim/
+├── charts/     # Output visuals from both notebooks
+├── sales_analysis.ipynb    # Project 1 — Sales Data Analysis
+├── customer_segmentation.ipynb     # Project 2 — Customer Segmentation (this project)
+├── sample_data.csv     # Dataset for Project 1
+├── customer_transactions.csv   # Dataset for Project 2
+├── sales_analysis_evaluation_report.pdf    # Project 1 summary report
+├── customer_segmentation_evaluation_report.pdf     # Project 2 summary report
 └── README.md
 ```
 
@@ -87,7 +87,7 @@ cloudexify-ds-final-yourname/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourname/cloudexify-ds-final-yourname.git
+git clone https://github.com/MuhammadAhmadHamim/cloudexify-ds-final-MuhammadAhmadHamim.git
 
 # 2. Install dependencies
 pip install jupyter pandas numpy matplotlib scikit-learn
@@ -96,7 +96,7 @@ pip install jupyter pandas numpy matplotlib scikit-learn
 jupyter notebook customer_segmentation.ipynb
 ```
 
-Run all cells top to bottom — the elbow plot, 3D scatter, and segment distribution charts each for demonstration, and the finally check `segmentation_report.txt`.
+Run all cells top to bottom — the elbow plot, 3D scatter, and segment distribution charts each for demonstration, and the finally check `customer_segmentation_evaluation_report.pdf`.
 
 ---
 
