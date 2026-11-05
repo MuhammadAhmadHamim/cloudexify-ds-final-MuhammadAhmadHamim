@@ -92,6 +92,7 @@ cloudexify-ds-final-MuhammadAhmadHamim/
 ```bash
 # 1. Clone the repo
 git clone https://github.com/MuhammadAhmadHamim/cloudexify-ds-final-MuhammadAhmadHamim.git
+cd cloudexify-ds-final-MuhammadAhmadHamim 
 
 # 2. Install dependencies
 pip install jupyter pandas numpy matplotlib scikit-learn
